@@ -1,4 +1,5 @@
 state,timestamp,leading_candidate_name,trailing_candidate_name,leading_candidate_votes,trailing_candidate_votes,vote_differential,votes_remaining,new_votes,leading_candidate_partition,trailing_candidate_partition,precincts_reporting,precincts_total,hurdle,hurdle_change,hurdle_mov_avg
+Alaska (EV: 3),2021-01-26 16:22:29.366000,Trump,Biden,189951,153778,36173,-438,0,0,0,441,441,0,-1.0464973157759025,0.5078
 Alaska (EV: 3),2020-12-16 21:21:36.175000,Trump,Biden,189951,153778,36173,31816,0,0,0,441,441,1.0464973157759025,0.003868604005089038,0.5078
 Alaska (EV: 3),2020-12-03 03:15:20.611000,Trump,Biden,189951,153778,36173,32034,0,0,0,441,441,1.0426287117708135,-2.228247290951635,0.5078
 Alaska (EV: 3),2020-12-02 15:17:19.525000,Trump,Biden,189951,153778,36173,6476,2304,0.43033854166666663,0.5696614583333334,441,441,3.2708760027224484,0.7123429998661059,0.5078
